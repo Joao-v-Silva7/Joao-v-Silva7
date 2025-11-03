@@ -1,0 +1,45 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda diariamente
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: platane/snk@v3
+        with:
+          github_user_name: SEU-USERNAME # Mude para seu username!
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: github-snake
+          path: dist
+      - uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const readme = fs.readFileSync('README.md', 'utf8');
+            // Substitua o placeholder do GIF no README
+            const newReadme = readme.replace(/[\s\S]*/, '\n<p align="center">\n  <img src="https://raw.githubusercontent.com/${{ github.repository }}/output/github-snake.svg" alt="GitHub Snake" />\n</p>\n');
+            fs.writeFileSync('README.md', newReadme);
+
+            await github.rest.repos.createOrUpdateFileContents({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: 'README.md',
+                message: 'Atualização: Adicionando animação da cobra',
+                content: Buffer.from(newReadme).toString('base64'),
+                sha: (await github.rest.repos.getContent({
+                    owner: context.repo.owner,
+                    repo: context.repo.repo,
+                    path: 'README.md',
+                })).data.sha
+            });
