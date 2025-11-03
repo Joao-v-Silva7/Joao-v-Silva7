@@ -1,4 +1,4 @@
-# Olá! Eu sou [João Victor]
+# Olá! me chamo João Victor
 
 Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 
