@@ -10,4 +10,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=vision-friendly-dark" alt="Linguagens Mais Usadas" />
 </p>
-### 🐍 Minha Atividade Recente
+
