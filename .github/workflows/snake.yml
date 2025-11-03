@@ -2,11 +2,9 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Roda diariamente à meia-noite (UTC).
     - cron: "0 0 * * *" 
   workflow_dispatch:
 
-# 🚨 BLOCO DE PERMISSÕES ADICIONADO PARA ESCREVER NO README 🚨
 permissions:
   contents: write 
 
@@ -17,41 +15,22 @@ jobs:
       - uses: actions/checkout@v4
       - uses: platane/snk@v3
         with:
-
-          github_user_name: Joao-v-Silva7
-          # Garantindo que o output seja GIF para a animação
-          outputs: |
-            dist/github-snake.gif
-            dist/github-snake-dark.gif?palette=github-dark
+          github_user_name: Joao-v-Silva7 
+          # Gera o GIF animado
+          outputs: dist/github-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
-      # Não é mais necessário subir artefato, a próxima etapa fará a injeção
+      # Não precisa mais do github-script complexo. O GIF será referenciado diretamente.
 
-      - uses: actions/github-script@v6
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-snake.gif
+          git commit -m "Atualização: Gerando GIF animado da cobrinha" || echo "Nada para commitar"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          script: |
-            const fs = require('fs');
-            const readme = fs.readFileSync('README.md', 'utf8');
-            
-            // 🚨 EXPRESSÃO REGULAR CORRIGIDA: SUBSTITUI SOMENTE O CONTEÚDO DENTRO DAS TAGS DE COBRA 🚨
-            const newReadme = readme.replace(
-              /[\s\S]*/, 
-              '\n<p align="center">\n  <img src="https://raw.githubusercontent.com/${{ github.repository }}/output/github-snake.gif" alt="GitHub Snake" />\n</p>\n'
-            );
-            
-            fs.writeFileSync('README.md', newReadme);
-            
-            // Faz o commit da alteração no README.md
-            await github.rest.repos.createOrUpdateFileContents({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                path: 'README.md',
-                message: 'Atualização: Injeção da animação GIF da cobrinha',
-                content: Buffer.from(newReadme).toString('base64'),
-                sha: (await github.rest.repos.getContent({
-                    owner: context.repo.owner,
-                    repo: context.repo.repo,
-                    path: 'README.md',
-                })).data.sha
-            });
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master # Ou main, se o seu branch principal for 'main'
