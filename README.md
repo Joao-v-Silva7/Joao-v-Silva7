@@ -1,16 +1,33 @@
-## Hi there 👋
+<style>
+  .tech-icon:hover {
+    transform: scale(1.2); 
+    transition: transform 0.3s ease-in-out;
+  }
+</style>
 
-<!--
-**Joao-v-Silva7/Joao-v-Silva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🛠️ Minhas Linguagens</h3>
+<p align="left">
+  <span class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  </span>
+  
+  <span class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </span>
 
-Here are some ideas to get you started:
+  <span class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html5" width="40" height="40"/>
+  </span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <span class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css3" width="40" height="40"/>
+
+  <span class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" width="40" height="40"/>
+  </span>
+
+  <span class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+
+  </span>
+</p>
