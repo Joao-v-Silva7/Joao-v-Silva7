@@ -17,6 +17,12 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 
 ---
 
+<h3>Banco de dados</h3>
+<p align="left">
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40">
+
+---
+
 ### 🐍 Minha Atividade de Contribuição
 
 ---
