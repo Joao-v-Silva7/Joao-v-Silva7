@@ -21,13 +21,10 @@
 
   <span class="tech-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css3" width="40" height="40"/>
-
-  <span class="tech-icon">
+  </span> <span class="tech-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" width="40" height="40"/>
   </span>
 
   <span class="tech-icon">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-
-  </span>
-</p>
+  </span> </p>
