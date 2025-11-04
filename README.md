@@ -1,4 +1,7 @@
-# Olá! me chamo João Victor
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&lines=Ol%C3%A1%2C+Eu+sou+o+Jo%C3%A3o!;Sempre+Aprendendo;Vamos+codificar!&center=true&width=450&height=40&color=2196F3" alt="Animação de Digitação"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mão acenando" />
 
 Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
@@ -40,9 +43,6 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
   <img src="https://raw.githubusercontent.com/Joao-v-Silva7/Joao-v-Silva7/master/dist/github-snake.gif" alt="GitHub Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&lines=Ol%C3%A1%2C+Eu+sou+o+Jo%C3%A3o!;Sempre+Aprendendo;Vamos+codificar!&center=true&width=450&height=40&color=2196F3" alt="Animação de Digitação"/>
-</p>
 <p align="center">
   <img src="https://octodex.github.com/images/welcometocat.png" alt="Octocat Voador" width="150" /> 
   </p>
