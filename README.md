@@ -36,5 +36,5 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joao-v-Silva7&layout=compact&hide_title=true&theme=onedark" alt="Minhas Estatísticas de Codificação" />
-</p>
+  <img src="https://octodex.github.com/images/welcometocat.png" alt="Octocat Voador" width="150" /> 
+  </p>
