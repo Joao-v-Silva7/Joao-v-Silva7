@@ -41,5 +41,8 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&lines=Ol%C3%A1%2C+Eu+sou+o+Jo%C3%A3o!;Sempre+Aprendendo;Vamos+codificar!&center=true&width=450&height=40&color=2196F3" alt="Animação de Digitação"/>
+</p>
+<p align="center">
   <img src="https://octodex.github.com/images/welcometocat.png" alt="Octocat Voador" width="150" /> 
   </p>
