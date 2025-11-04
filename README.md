@@ -1,4 +1,5 @@
 # Olá! me chamo João Victor
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Mão acenando" />
 
 Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 
