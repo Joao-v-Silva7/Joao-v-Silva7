@@ -34,6 +34,6 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
   <img src="https://raw.githubusercontent.com/Joao-v-Silva7/Joao-v-Silva7/master/dist/github-snake.gif" alt="GitHub Snake Animation" />
 </p>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/974b910041d5cc55d0139e8027725a3964344c8c7efc05c0834371fa79e8c467/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3731653463636531336437653736636662386131393661612f67697068792e676966" alt="Gato Codificando"/>
-</p>
+
+![Gato Codificando](https://i.imgur.com/k9b6d9e.gif)
+
