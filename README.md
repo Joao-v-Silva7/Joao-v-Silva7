@@ -13,12 +13,12 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" text="Python: Minha linguagem favorita para Back-end!" alt="Python" width="40" height="40"/>
 </p>
 
-![Python Logo](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python: Minha linguagem favorita para Back-end!")
 
 ---
-
+zz
 <h3>Banco de dados</h3>
 <p align="left">
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40">
