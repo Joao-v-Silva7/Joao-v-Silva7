@@ -35,6 +35,6 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
   <img src="https://raw.githubusercontent.com/Joao-v-Silva7/Joao-v-Silva7/master/dist/github-snake.gif" alt="GitHub Snake Animation" />
 </p>
 
-
-![Gato Codificando](https://i.imgur.com/k9b6d9e.gif)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Joao-v-Silva7&layout=compact&hide_title=true&theme=onedark" alt="Minhas Estatísticas de Codificação" />
+</p>
