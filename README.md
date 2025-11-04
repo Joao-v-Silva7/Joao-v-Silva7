@@ -33,3 +33,7 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joao-v-Silva7/Joao-v-Silva7/master/dist/github-snake.gif" alt="GitHub Snake Animation" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8NxCgo4L2k/giphy.gif" alt="Gato Codificando"/>
+</p>
