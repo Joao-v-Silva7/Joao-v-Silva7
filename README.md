@@ -24,7 +24,11 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="40" height="40">
 
 ---
+<h3>Linguagens mais usadas</h3>
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)](https://github.com/Joao-v-Silva7github-readme-stats)
+
+---
 ### 🐍 Minha Atividade de Contribuição
 
 ---
