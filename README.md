@@ -26,7 +26,7 @@ Sou um desenvolvedor focado em [Back-end] e estou sempre aprendendo.
 ---
 <h3>Linguagens mais usadas</h3>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark)](https://github.com/Joao-v-Silva7github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=dark)](https://github.com/Joao-v-Silva7/github-readme-stats)
 
 ---
 ### 🐍 Minha Atividade de Contribuição
