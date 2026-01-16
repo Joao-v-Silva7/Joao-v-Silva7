@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1,+eu+sou+o+Jo%C3%A3o+Victor;Desenvolvedor+Backend;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1,+eu+sou+o+Jo%C3%A3o+Victor;Desenvolvedor+FullStack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  👋 Olá! Tenho <b>[SUA IDADE AQUI]</b> anos e sou apaixonado por transformar ideias em código.
+  👋 Olá! Tenho <b>20</b> anos e sou apaixonado por transformar ideias em código.
   <br>
   Como Desenvolvedor FullStack, atuo na interseção entre design e funcionalidade, utilizando <b>Node.js (NestJS)</b> e <b>React</b>. 
   Estou sempre em busca da próxima tecnologia para dominar e acredito que a melhor linha de código é aquela que impacta positivamente a vida do usuário.
@@ -43,23 +43,20 @@
 
 ---
 
-<h3 align="center">🏆 Minhas Conquistas & Frequência</h3>
+<h3 align="center">📈 Minha Frequência de Código</h3>
 
 <div align="center">
-  <!-- Streak Stats: Mostra quantos dias seguidos você codou -->
-  <a href="https://github.com/Joao-v-Silva7">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-v-Silva7&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <!-- Activity Graph: Um gráfico de linha elegante mostrando seus commits recentes -->
+  <!-- Esse serviço costuma ser muito mais estável que o Streak Stats -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-v-Silva7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
-<div align="center">
-  <!-- Troféus: Gera medalhas baseado nas suas stats -->
-  <a href="https://github.com/Joao-v-Silva7">
-    <img src="https://github-profile-trophy.vercel.app/?username=Joao-v-Silva7&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</div>
+<p align="center">
+  <!-- Contador de Visitas: Simples e funcional -->
+  <img src="https://komarev.com/ghpvc/?username=Joao-v-Silva7&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 ---
