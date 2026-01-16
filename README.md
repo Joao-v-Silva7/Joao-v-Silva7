@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-  Sou um desenvolvedor focado em Backend, explorando o mundo das APIs e Banco de Dados. Atualmente estou aprimorando meus conhecimentos em Node.js, Python e Arquitetura de Software.
+  👋 Olá! Tenho <b>[SUA IDADE AQUI]</b> anos e sou apaixonado por transformar ideias em código.
+  <br>
+  Como Desenvolvedor FullStack, atuo na interseção entre design e funcionalidade, utilizando <b>Node.js (NestJS)</b> e <b>React</b>. 
+  Estou sempre em busca da próxima tecnologia para dominar e acredito que a melhor linha de código é aquela que impacta positivamente a vida do usuário.
 </p>
 
 <p align="center">
@@ -40,16 +43,22 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🏆 Minhas Conquistas & Frequência</h3>
 
-<p align="center">
+<div align="center">
+  <!-- Streak Stats: Mostra quantos dias seguidos você codou -->
   <a href="https://github.com/Joao-v-Silva7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-v-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="Joao Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-v-Silva7&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Troféus: Gera medalhas baseado nas suas stats -->
   <a href="https://github.com/Joao-v-Silva7">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=dracula&hide_border=true" height="180" alt="Joao Top Langs" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Joao-v-Silva7&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
-</p>
 </div>
 
 
