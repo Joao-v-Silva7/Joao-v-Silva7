@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
-  <a href="mailto:SEUEMAIL@GMAIL.COM">
+  <a href="mailto:jv2806633@GMAIL.COM">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </p>
@@ -26,18 +26,25 @@
 <h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 10px"/>
-  <!-- Web Basics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 10px"/>
-  <!-- Banco de Dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45" style="margin: 10px"/>
+  <!-- Backend & Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 10px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Typescript/Typescript-original.svg" alt="Typescript" width="45" height="45" style="margin: 10px" title="Typescript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 10px" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin: 10px" title="NestJS"/>
+  
+  <br> <!-- Quebra de linha para separar Backend de Frontend/Tools -->
+
+  <!-- Frontend & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 10px" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45" style="margin: 10px" title="Vite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 10px" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 10px" title="CSS3"/>
+
+  <br>
+
+  <!-- Ferramentas & Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="margin: 10px" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="45" height="45" style="margin: 10px" title="MySQL"/>
 </p>
 
 ---
@@ -49,12 +56,12 @@
     <tr>
       <td>
         <a href="https://github.com/Joao-v-Silva7">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-v-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-v-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
         </a>
       </td>
       <td>
         <a href="https://github.com/Joao-v-Silva7">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=dracula&hide_border=true"/>
+          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=dracula&hide_border=true"/>
         </a>
       </td>
     </tr>
