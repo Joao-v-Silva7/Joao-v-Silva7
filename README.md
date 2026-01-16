@@ -15,7 +15,6 @@
 </p>
 
 <p align="center">
-  <!-- ATENÇÃO: Troque os links abaixo pelos seus reais do LinkedIn e Email -->
   <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
@@ -49,15 +48,12 @@
 <h3 align="center">📈 Minha Frequência de Código</h3>
 
 <div align="center">
-  <!-- Activity Graph: Um gráfico de linha elegante mostrando seus commits recentes -->
-  <!-- Esse serviço costuma ser muito mais estável que o Streak Stats -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-v-Silva7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
 <p align="center">
-  <!-- Contador de Visitas: Simples e funcional -->
   <img src="https://komarev.com/ghpvc/?username=Joao-v-Silva7&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
