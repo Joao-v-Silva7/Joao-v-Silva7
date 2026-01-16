@@ -29,8 +29,6 @@
   <!-- Linguagens -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/delphi/delphi-original.svg" alt="Delphi" width="45" height="45" style="margin: 10px"/>
   <!-- Web Basics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 10px"/>
