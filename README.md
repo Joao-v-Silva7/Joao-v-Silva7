@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 10px" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/TypeScript/TypeScript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 10px" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin: 10px" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" style="margin: 10px" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin: 10px" title="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 10px" title="React"/>
@@ -42,21 +42,14 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <a href="https://github.com/Joao-v-Silva7">
-          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-v-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Joao-v-Silva7">
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=dracula&hide_border=true"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <a href="https://github.com/Joao-v-Silva7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Joao-v-Silva7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180" alt="Joao Stats" />
+  </a>
+  <a href="https://github.com/Joao-v-Silva7">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-v-Silva7&layout=compact&theme=dracula&hide_border=true" height="180" alt="Joao Top Langs" />
+  </a>
+</p>
 </div>
 
 
