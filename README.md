@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  👋 Olá! Tenho <b>20</b> anos e sou apaixonado por transformar ideias em código.
+   Olá! Tenho <b>20</b> anos, atuo na área de desenvolvimento web e sou apaixonado por transformar ideias em código.
   <br>
   Como Desenvolvedor FullStack, atuo na interseção entre design e funcionalidade, utilizando <b>Node.js (NestJS)</b> e <b>React</b>. 
   Estou sempre em busca da próxima tecnologia para dominar e acredito que a melhor linha de código é aquela que impacta positivamente a vida do usuário.
