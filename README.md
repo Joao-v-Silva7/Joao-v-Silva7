@@ -23,7 +23,7 @@
 
 ---
 
-<h3 align="center">🛠️ Arsenal Tecnológico</h3>
+<h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 
 <p align="center">
   <!-- Linguagens -->
@@ -36,6 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 10px"/>
   <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="45" height="45" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="45" height="45" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" style="margin: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45" style="margin: 10px"/>
 </p>
 
 ---
