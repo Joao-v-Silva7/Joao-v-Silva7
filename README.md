@@ -25,6 +25,9 @@
 </p>
 
 ---
+🔭 **Atualmente Trabalhando na empresa:**  
+- [Nortesys](https://nortesys.com.br/) - Software Developer
+---
 
 <h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 
