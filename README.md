@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1,+eu+sou+o+Jo%C3%A3o+Victor;Desenvolvedor+FullStack;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Ol%C3%A1,+eu+sou+o+Jo%C3%A3o+Victor!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,10 +8,7 @@
 </p>
 
 <p align="center">
-   Olá! Tenho <b>20</b> anos, atuo na área de desenvolvimento web e sou apaixonado por transformar ideias em código.
-  <br>
-  Como Desenvolvedor FullStack, atuo na interseção entre design e funcionalidade, utilizando <b>Node.js (NestJS)</b> e <b>React</b>. 
-  Estou sempre em busca da próxima tecnologia para dominar e acredito que a melhor linha de código é aquela que impacta positivamente a vida do usuário.
+   21 anos, system analyst
 </p>
 
 <p align="center">
@@ -22,11 +19,6 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </p>
-
----
-🔭 **Atualmente Trabalhando na empresa:**  
-- [Nortesys](https://nortesys.com.br/) - Software Developer
----
 
 <h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 
@@ -45,11 +37,6 @@
 
 ---
 
-<h3 align="center">📈 Minha Frequência de Código</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-v-Silva7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 <br>
 
